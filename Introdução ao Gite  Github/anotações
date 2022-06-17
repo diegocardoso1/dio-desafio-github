@@ -1,0 +1,28 @@
+Anotações
+
+git config --global user.name nome_de_usuario
+git config --global user.email email@exemplo.br
+
+git init
+
+git remote add origin
+
+[https://github.com/user/repo.git](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVllWGFyTVR3cElXSU9zcXppcnFNR084aUJKd3xBQ3Jtc0tuV2prM3hHbF9adDJiZ3RNdWdCelEtRUloLUZrUVU1VHhwZEJQeHQ1ektxWVQtTXR1bXlORms1dFJmbTNsRUNVQzhuUldSWEZKdlltUmdYYjhzMUVTbE44N1ZKazdPZDRNbVM0Z2txMzFsaHY5bzdSVQ&q=https%3A%2F%2Fgithub.com%2Fuser%2Frepo.git&v=fyfyFM-DJyU)
+
+git add *
+
+git commit -m 'mensagem para identificar o commit'
+
+git push -u origin master
+git config --global user.name nome_de_usuario
+git config --global user.email email@exemplo.br
+
+git init
+
+git remote add origin url_do_seu_repositorio
+
+git add *
+
+git commit -m 'mensagem para identificar o commit'
+
+git push -u origin master
